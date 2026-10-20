@@ -21,20 +21,6 @@ Node.js/Express, PostgreSQL, pgAdmin, Nginx, Prometheus, Grafana, Loki, Promtail
 | Grafana | http://localhost:3001 |
 | Prometheus | http://localhost:9090 |
 
-## Tài khoản
-1. Admin
-Email: admin@tour.com
-Password: change_me
-2. Khách hàng
-Email: khachhang@gmail.com
-Password: 12345678
-3. Grafana
-Name: admin
-Password: Grafana_Str0ng_2026
-4. pgAdmin
-Email: admin@tour.com
-Pasword: Pg_Str0ng_2026
-
 ## Dừng
 `docker compose down` (thêm `-v` để xóa dữ liệu)
 
